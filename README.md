@@ -1,2 +1,2 @@
-# Product_Card
- Frontend
+# Product Card
+ Awesome & Dynamic Product Card UI for Shoes using HTML & CSS
